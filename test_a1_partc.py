@@ -1,5 +1,4 @@
 #
-#   Author: Catherine Leung
 #   These are the unit tests for functions and classes of assingment 1 part C
 #   To use this, run: python test_a1_partc.py
 
